@@ -1,4 +1,4 @@
-module github.com/go-sql-driver/mysql
+module github.com/zcqzcg/mysql
 
 go 1.13
 
