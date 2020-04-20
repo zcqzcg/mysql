@@ -9,7 +9,8 @@
 package mysql
 
 import (
-	"crypto/tls"
+	//"crypto/tls"
+	tls "github.com/zcqzcg/gmtls"
 	"database/sql"
 	"database/sql/driver"
 	"encoding/binary"
