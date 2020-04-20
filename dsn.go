@@ -11,7 +11,8 @@ package mysql
 import (
 	"bytes"
 	"crypto/rsa"
-	"crypto/tls"
+	//"crypto/tls"
+	tls "github.com/zcqzcg/gmtls"
 	"errors"
 	"fmt"
 	"math/big"

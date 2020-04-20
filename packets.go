@@ -10,7 +10,8 @@ package mysql
 
 import (
 	"bytes"
-	"crypto/tls"
+	//"crypto/tls"
+	tls "github.com/zcqzcg/gmtls"
 	"database/sql/driver"
 	"encoding/binary"
 	"encoding/json"
